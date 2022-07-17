@@ -1,0 +1,18 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  width: 100%;
+  display: flex;
+  gap: 16px;
+}
+
+.row-item {
+  flex: 1;
+}
+
+.checkbox-padding {
+  padding: 8px;
+}
